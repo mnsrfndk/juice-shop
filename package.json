@@ -183,7 +183,7 @@
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
     "z85": "^0.0.2"
-  },
+  }, 
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^1.12.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
